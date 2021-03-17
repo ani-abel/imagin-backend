@@ -1,0 +1,1 @@
+export const ConvertByteToMegabytes = (bytes: number) => Math.round(bytes / Math.pow(1024, 3));
